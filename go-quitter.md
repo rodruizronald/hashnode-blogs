@@ -255,7 +255,7 @@ Essentially, the `exitFunc()` listens to the given quit channels and holds the p
 ```go
 func main() {
 	mainQuitter, exit, chans := initMainQuitter()
-  defer exit()
+	defer exit()
 
 	srv := NewService("8080", chans, mainQuitter.Context())
 

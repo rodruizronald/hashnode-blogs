@@ -1,5 +1,5 @@
 ---
-title: Exit Go routines properly with Go Quitter
+title: Exit Goroutines properly with Go Quitter
 domain: rodruizronald.hashnode.dev
 tags: golang, channels, signals, waitgroup, mutex, graceful, shutdown, sync
 slug: go-quitter

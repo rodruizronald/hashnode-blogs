@@ -242,3 +242,4 @@ Let's imagine you have two GitHub accounts, your personal account named `gitpers
 		PreferredAuthentications publickey
 		IdentityFile ~/.ssh/id_ed25519_gitpersonal
 	```
+.
